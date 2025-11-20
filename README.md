@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,58a6ff,8b949e,bc8cff&height=250&section=header&text=Sajad%20&fontSize=80&fontAlign=50&fontAlignY=35&desc=AI%20%26%20Data%20Science%20|%20Computer%20Engineering&descFontSize=18&descAlign=50&descAlignY=62&animation=fadeIn&fontColor=ffffff" width="100%" alt="Header Banner" />
+  <img src="https://i.ibb.co/L519V34/kirokaze.gif" width="100%" style="border-radius: 10px;" alt="Coding Night Interface" />
 </div>
 
 <div align="center">
@@ -7,9 +7,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Sajad;Building+AI+Solutions;Exploring+Data+Science;C%2B%2B+%26+Python+Developer" alt="Typing SVG" />
   </a>
 </div>
-
-<div align="center">
-  </div>
 
 ---
 
