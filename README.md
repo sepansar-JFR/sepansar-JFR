@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/L519V34/kirokaze.gif" width="100%" style="border-radius: 10px;" alt="Coding Night Interface" />
+  <img src="https://github.com/sepansar-JFR/sepansar-JFR/blob/main/Tired%20Now.gif?raw=true" width="100%" style="border-radius: 10px;" alt="Coding Night Interface" />
 </div>
 
 <div align="center">
