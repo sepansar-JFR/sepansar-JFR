@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://github.com/sepansar-JFR/sepansar-JFR/blob/main/Tired%20Now.gif?raw=true" width="100%" style="border-radius: 10px;" alt="Coding Night Interface" />
-</div>
-
-<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Sajad;Building+AI+Solutions;Exploring+Data+Science;C%2B%2B+%26+Python+Developer" alt="Typing SVG" />
   </a>
