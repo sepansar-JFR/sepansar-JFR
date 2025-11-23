@@ -20,7 +20,7 @@
     </td>
     <td width="35%">
       <div align="center">
-        <img src="https://media.giphy.com/media/du3J3cXyzhj75RBvn1/giphy.gif" width="100%" alt="Coding Sticker" />
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Sticker" />
       </div>
     </td>
   </tr>
