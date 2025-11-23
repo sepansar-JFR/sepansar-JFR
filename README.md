@@ -8,19 +8,20 @@
 
 <table>
   <tr>
-    <td width="60%" valign="top">
+    <td width="65%" valign="top">
       <h3>👨‍💻 About Me</h3>
       <ul>
         <li>🎓 I’m a <strong>Computer Engineering Student</strong> at Azad University of Mashhad.</li>
-        <li>💻 My main languages are <strong>Python</strong> and <strong>C++</strong>.</li>
-        <li>🔭 Currently working on university projects like the <strong>Quine-McCluskey Algorithm</strong> and <strong>7-segment display</strong> implementation.</li>
-        <li>🌐 I also enjoy <strong>Web Design</strong>, building <strong>Telegram Bots</strong>, and creating automation workflows with <strong>n8n</strong>.</li>
-        <li>⚡ Always learning and open to new experiences!</li>
+        <li>💻 My core languages are <strong>Python</strong> and <strong>C++</strong>.</li>
+        <li>🔭 I've worked on university projects such as the <strong>Quine-McCluskey Algorithm</strong> and <strong>7-segment display</strong> implementation.</li>
+        <li>🌐 Beyond university, I build <strong>Websites</strong>, develop <strong>Telegram Bots</strong>, and create automation workflows using <strong>n8n</strong>.</li>
+        <li>⚡ I enjoy solving problems and automating daily tasks!</li>
       </ul>
     </td>
-    <td width="40%">
-      <br>
-      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding Gif" width="100%" style="border-radius: 10px;" />
+    <td width="35%">
+      <div align="center">
+        <img src="https://media.giphy.com/media/du3J3cXyzhj75RBvn1/giphy.gif" width="100%" alt="Coding Sticker" />
+      </div>
     </td>
   </tr>
 </table>
