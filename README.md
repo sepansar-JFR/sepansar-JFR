@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Sajad;Computer+Engineering+Student" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=A9A9A9&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Sajad;Computer+Engineering+Student" alt="Typing SVG" />
   </a>
 </div>
 
@@ -33,11 +33,11 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sepansar-JFR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sepansar-JFR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="languages graph" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sepansar-JFR&bg_color=0d1117&color=58a6ff&line=bc8cff&point=ffffff&hide_border=true" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sepansar-JFR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sepansar-JFR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sepansar-JFR&bg_color=0d1117&color=58a6ff&line=bc8cff&point=ffffff&hide_border=true)
+
 </div>
