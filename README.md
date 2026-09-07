@@ -36,25 +36,14 @@
 
 <div align="center">
 
-### 🤖 AI, AGENTS & AUTOMATION
+### ⚙️ TECH STACK
 
-<img src="https://img.shields.io/badge/AI_Agents-000000?style=for-the-badge&logo=OpenAI&logoColor=00D9FF" />
-<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=00D9FF" />
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
+
+<br/><br/>
+
 <img src="https://img.shields.io/badge/n8n_Workflows-000000?style=for-the-badge&logo=n8n&logoColor=00D9FF" />
-<img src="https://img.shields.io/badge/Telegram_Bots-000000?style=for-the-badge&logo=telegram&logoColor=00D9FF" />
-<img src="https://img.shields.io/badge/Web_Scraping-000000?style=for-the-badge&logo=selenium&logoColor=00D9FF" />
-
-<br/><br/>
-
-### 🧠 AI / ML STACK
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,selenium&theme=dark" />
-
-<br/><br/>
-
-### ⚙️ BACKEND & INFRA
-
-<img src="https://skillicons.dev/icons?i=fastapi,django,postgres,redis,docker,linux,bash,git&theme=dark" />
+<img src="https://img.shields.io/badge/Telegram_Bot_API-000000?style=for-the-badge&logo=telegram&logoColor=00D9FF" />
 
 </div>
 
