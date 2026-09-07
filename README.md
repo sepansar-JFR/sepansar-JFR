@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001B33,100:00D9FF&height=200&section=header&text=SAJAD%20JAFARI&fontColor=00D9FF&fontSize=55&fontAlignY=38&animation=fadeIn&desc=%3E%20root%40kernel%3A~%23%20whoami&descAlignY=58&descSize=18&descColor=00D9FF" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001B33,100:00D9FF&height=200&section=header&text=SAJAD%20JAFARI&fontColor=00D9FF&fontSize=55&fontAlignY=38&animation=twinkle&desc=sajad%40ubuntu%3A~%24%20whoami&descAlignY=58&descSize=18&descColor=00D9FF" width="100%" />
 
-<!-- Terminal boot typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=00D9FF&background=00000000&center=true&vCenter=true&width=750&height=50&lines=%3E+Initializing+AI+core...;%3E+Loading+automation+agents+%5BOK%5D;%3E+Connecting+to+Telegram+API+%5BOK%5D;%3E+Access+granted.+Welcome%2C+operator." alt="Terminal Typing" />
+<!-- Terminal typing animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=700&color=00D9FF&background=00000000&center=true&vCenter=true&width=750&height=50&lines=Building+Telegram+bots+with+Python+%F0%9F%A4%96;Automating+workflows+with+n8n+%E2%9A%99%EF%B8%8F;Turning+ideas+into+running+systems+%F0%9F%9A%80" alt="Terminal Typing" />
 
 <br/>
 
@@ -22,23 +22,22 @@
 <br/>
 
 ```bash
-┌──(root㉿kernel)-[/home/sajad]
-└─$ cat about.txt
+sajad@ubuntu:~$ whoami
+sajad_jafari
 
-[+] Role        : Computer Engineering Student / AI & Automation Builder
-[+] Focus       : Intelligent Agents · Telegram Bots · Workflow Automation
-[+] Weapons     : Python, LLMs, n8n, Scrapers, Bot Frameworks
-[+] Mission     : Turning repetitive tasks into self-running systems
-[+] Status      : ONLINE — always shipping something new 🔵
+sajad@ubuntu:~$ cat about.txt
+Computer Engineering Student
+Building Telegram bots and automation workflows with Python & n8n
+Always learning, always automating.
 
-└─$ _
+sajad@ubuntu:~$ _
 ```
 
 <div align="center">
 
 ### ⚙️ TECH STACK
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp&theme=dark" />
 
 <br/><br/>
 
@@ -85,8 +84,9 @@
 <br/>
 
 ```bash
-└─$ echo "connection terminated. see you in the next commit."
-[system] logging out... 🔵
+sajad@ubuntu:~$ echo "thanks for stopping by!"
+thanks for stopping by!
+sajad@ubuntu:~$ exit
 ```
 
 <div align="center">
